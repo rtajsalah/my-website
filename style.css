@@ -1,0 +1,32 @@
+h1 {
+  color : red;
+}
+body {
+  color: blue;
+  font-weight: bold;
+  font-family: arial;
+}
+
+.button {
+  width:100px;
+  height:100px;
+  background-color:orange;
+  color: white;
+  text-align: center;
+  border: 5px dashed black;
+}
+ li {
+   color: orange;
+ }
+#note {
+  color: green ;
+}
+#laptop {
+  color: black ;
+}
+img {
+  border-radius: 50%;
+}
+.button {
+  border: 1px soild black line
+}
